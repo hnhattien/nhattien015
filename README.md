@@ -1,5 +1,5 @@
 - Hi, I’m @nhattien015
 - I’m interested in Javascript, Typescript, ReactJS, Automate with Python, Web crawler
 - I’m currently learning Software Technology
-- I used to code by PHP, Wordpress, Javascript, Python,...
+- I used to code by using PHP, Wordpress, Javascript, Python,...
 - I like to use Neovim editor :D
